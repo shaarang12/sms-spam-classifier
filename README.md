@@ -11,7 +11,7 @@
 This project is an SMS (text message) spam classifier built using machine learning techniques. It can help identify whether a given SMS is spam or not. In addition to the machine learning model, it also includes a frontend for easy interaction.
 
 ## Demo
-(https://sms-spam-classifier-shaarangpd.streamlit.app/)(#)
+https://sms-spam-classifier-shaarangpd.streamlit.app/(#)
 
 ## Dataset
 The SMS spam classifier model was trained on a publicly available dataset. You can find more information and download the dataset from the following link:
