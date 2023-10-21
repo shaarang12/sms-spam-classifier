@@ -1,6 +1,6 @@
 # SMS Spam Classifier
 
-![SMS Spam Classifier]()
+![SMS Spam Classifier](https://github.com/shaarang12/sms-spam-classifier/blob/main/sms_spam.png)
 
 ## Table of Contents
 - [Overview](#overview)
